@@ -1,3 +1,4 @@
 fp-info-cache
 .DS_Store
 *-backups
+*.lck
